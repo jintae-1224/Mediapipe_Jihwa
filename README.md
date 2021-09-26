@@ -29,4 +29,7 @@ OpenCv를 통해 카메라에 인식하고자 하는 데이터 설정 후 동작
 ## 4. Train.py(진행중)
 
 Model
-LSTM 
+LSTM, unit=64, 활성화 함수 = relu, Dense, unit=32, 활성화 함수 = relu, Desne, unit = 저장할 동작 갯수, 활성화 함수 = softmax
+
+2021.09.26
+ㄱ,ㄴ,ㄷ 3개의 데이터 학습 결과 한가지 경우도 인식 하지 못함
