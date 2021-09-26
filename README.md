@@ -25,3 +25,8 @@ OpenCv를 통해 카메라에 인식하고자 하는 데이터 설정 후 동작
 ![image](https://user-images.githubusercontent.com/83216197/134819740-8ccaec42-c36e-4f3d-b859-d4fc382c2d10.png)
 
 ![image](https://user-images.githubusercontent.com/83216197/134819826-ec163042-36f6-404f-b9bf-e8444bcd2c64.png)
+
+## 4. Train.py(진행중)
+
+Model
+LSTM 
