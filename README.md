@@ -18,3 +18,10 @@
 
 2. 좌표값들의 변화에 따른 값을 지정하기 위해 시계열 분석 LSTM을 사용하기 위한 Tensorflow
 
+## 3. Data.py
+
+OpenCv를 통해 카메라에 인식하고자 하는 데이터 설정 후 동작 수행시간, 동작 대기 시간등을 조절하여 Numpy Array로 저장
+
+![image](https://user-images.githubusercontent.com/83216197/134819740-8ccaec42-c36e-4f3d-b859-d4fc382c2d10.png)
+
+![image](https://user-images.githubusercontent.com/83216197/134819826-ec163042-36f6-404f-b9bf-e8444bcd2c64.png)
