@@ -8,3 +8,13 @@
 
 #출처 : https://blog.naver.com/holyjohn85/150000115485
 
+## 2. 개발 환경
+
+1. 손 마디마디의 좌표값을 얻기 위해 오픈소스인 MediaPipe 사용
+
+![image](https://user-images.githubusercontent.com/83216197/134819170-125fe974-783a-4f4c-9d80-e50e8705407e.png)
+
+출처 : https://google.github.io/mediapipe/solutions/hands.html
+
+2. 좌표값들의 변화에 따른 값을 지정하기 위해 시계열 분석 LSTM을 사용하기 위한 Tensorflow
+
